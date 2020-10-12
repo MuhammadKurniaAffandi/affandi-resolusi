@@ -12,3 +12,5 @@ AFFANDI RESOLUSI
   3. React (Framework Javascript)
   4. React Native (Framework Javascript)
   5. Vue.js (Framework Javascript)
+  
+- Tidak hanya ingin menjadi Web Developer, tetapi Saya juga berkeinginan ingin menjadi Mobile Developer.
