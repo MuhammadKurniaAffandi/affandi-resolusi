@@ -1,0 +1,14 @@
+AFFANDI RESOLUSI
+- Konsisten belajar Web Developer
+- Membuat Website sederhana
+- Mendalami bagian Frontend, seperti:
+  1. HTML5
+  2. CSS3
+  3. Javascript
+  
+- dan mendalami Framework, seperti:
+  1. Bootstrap (Framework CSS)
+  2. JQuery React (Framework Javascript)
+  3. React (Framework Javascript)
+  4. React Native (Framework Javascript)
+  5. Vue.js (Framework Javascript)
