@@ -8,9 +8,10 @@ AFFANDI RESOLUSI
   
 - dan mendalami Framework, seperti:
   1. Bootstrap (Framework CSS)
-  2. JQuery React (Framework Javascript)
-  3. React (Framework Javascript)
+  2. JQuery (Framework Javascript)
+  3. ReactJS (Framework Javascript)
   4. React Native (Framework Javascript)
   5. Vue.js (Framework Javascript)
+  6. angular.js (Framework Javascript)
   
 - Tidak hanya ingin menjadi Web Developer, tetapi Saya juga berkeinginan ingin menjadi Mobile Developer.
