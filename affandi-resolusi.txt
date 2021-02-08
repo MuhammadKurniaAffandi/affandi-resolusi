@@ -1,17 +1,21 @@
 AFFANDI RESOLUSI
 - Konsisten belajar Web Developer
 - Membuat Website sederhana
-- Mendalami bagian Frontend, seperti:
+- Mendalami bagian Web Developer, seperti:
   1. HTML5
   2. CSS3
   3. Javascript
+  4. PHP
+  
   
 - dan mendalami Framework, seperti:
-  1. Bootstrap (Framework CSS)
-  2. JQuery (Framework Javascript)
-  3. ReactJS (Framework Javascript)
-  4. React Native (Framework Javascript)
-  5. Vue.js (Framework Javascript)
-  6. angular.js (Framework Javascript)
+  1. Bootstrap
+  2. JQuery
+  3. ReactJS
+  4. React Native
+  5. Vue.js
+  6. angular.js
+  7. Laravel
+  8. CodeIgniter
   
 - Tidak hanya ingin menjadi Web Developer, tetapi Saya juga berkeinginan ingin menjadi Mobile Developer.
